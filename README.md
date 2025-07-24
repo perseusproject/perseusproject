@@ -1,10 +1,9 @@
-## *Strive to use the full potential of the Internet*
+## Hi 👋 My name is Thibaud
 
--  My name is Perseus
--  I am a student in Mathematics, and an aspiring quant.
--  Experienced in Ocaml, I try to catch up with Python by using Leetcode regularly
--  I’m willing to learn about the use of LLMs in coding as well as finance.
-- I will soon upload content here
+### Currently studying Applied Math and CS, I strive to pursue a career in Quant Finance
 
+Now working on :
+- Hybrid RAG with pre-processing of data and LLM-based post processing
+- Detection of structural anomalies in multi-asset markets through low-rank models and correlation
 
 
